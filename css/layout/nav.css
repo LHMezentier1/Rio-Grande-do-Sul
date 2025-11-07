@@ -1,0 +1,7 @@
+.chooser{
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+    align-self: center;
+    justify-self:center;
+}
