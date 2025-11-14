@@ -1,2 +1,5 @@
 @import './base/reset.css';
+@import './base/typography.css';
 @import './layout/nav.css';
+@import './layout/section.css';
+@import './layout/header.css';

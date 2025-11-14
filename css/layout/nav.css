@@ -1,7 +1,10 @@
 .chooser{
+    background-color: aqua;
+    width:99.8%;
+    justify-self: center;
+    border: black solid 5px;
     display:flex;
     flex-direction: row;
     gap:20px;
-    align-self: center;
-    justify-self:center;
+    justify-content: center;
 }

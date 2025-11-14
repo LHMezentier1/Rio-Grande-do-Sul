@@ -1,0 +1,18 @@
+.black{
+    color:black;
+}
+.italic{
+    font-style: italic;
+}
+.big{
+    font-size: 4.5em;
+}
+.bold{
+    font-style: bold;
+}
+.alignc{
+    text-align: center;
+}
+.ndec{
+    text-decoration: none;
+}
