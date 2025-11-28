@@ -16,3 +16,10 @@
 .ndec{
     text-decoration: none;
 }
+.pageon{
+    font-style: bold;
+    color: red;
+}
+.mb{
+    margin-bottom:1em;
+}

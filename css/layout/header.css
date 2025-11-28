@@ -1,7 +1,39 @@
-header{
-    background-image: url(../../img/download.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:400px;
+#h{
+    box-shadow: 1em 1em 1.5em rgba(0, 0, 0, 0.3);
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: row;
+    margin-top:0.2em;
+    border-radius: 2em;
+    border: black solid 2px;
+    height:6em;
+    img{
+        height:5em;
+        width:5em;
+        border-radius:1em;
+        margin-top:0.3em;
+    }
+    width:99.7%;
+    justify-self: center;
+    
+    }
+.img{
+    margin-left:-23em;
+    display:flex;
+    flex-direction:row;
+    height:100%;
+    width:40%;
+    justify-content: center;
+    align-items: center;
+    h1{
+        margin-left:1.2em
+    }
+}
+.chooser{
+    justify-self: center;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:2.5em;
 }
