@@ -40,6 +40,7 @@
     #h{
         flex-direction: column;
         height:fit-content;
+        gap:1em;
     }
     .img{
         margin-left:0em;
