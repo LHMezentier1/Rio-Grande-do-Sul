@@ -16,7 +16,6 @@
     }
     width:99.7%;
     justify-self: center;
-    
     }
 .img{
     margin-left:-23em;
@@ -36,4 +35,19 @@
     flex-direction: row;
     justify-content: center;
     gap:2.5em;
+}
+@media(max-width:1080px){
+    #h{
+        flex-direction: column;
+        height:fit-content;
+    }
+    .img{
+        margin-left:0em;
+        width:100%;
+    }
+    #h{
+        a{
+            font: size 2.3vw;
+        }
+    }
 }
