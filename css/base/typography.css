@@ -23,3 +23,8 @@
 .mb{
     margin-bottom:1em;
 }
+@media(max-width:1080px){
+    #bit{
+        margin-right: 0.4em;
+    }
+}
